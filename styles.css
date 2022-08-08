@@ -1,1 +1,16 @@
-/* Write your CSS here! */
+body {
+  margin: 8px
+}
+
+#mainheading {
+  color: red
+}
+
+#testP {
+  color:green
+}
+
+.img {
+  width: 100px;
+  height: 100px
+}
