@@ -23,10 +23,11 @@ p {
 .image {
   opacity: 1;
   display: block;
-  width: 300px;
+  width: 400px;
   height: auto;
   transition: .5s ease;
   backface-visibility: hidden;
+  object-fit: cover;
 }
 
 .middle {
@@ -83,7 +84,7 @@ p {
 }
 
 .trump {
-  background-color: grey;
+  background-color: gainsboro;
 }
 
 .stranger {
@@ -91,15 +92,15 @@ p {
 }
 
 .tinker {
-  background-color: darkyellow;
+  background-color: goldenrod;
 }
 
 .master {
-  background-color: darkPurple;
+  background-color: magenta;
 }
 
 .thinker {
-  background-color: darkblue;
+  background-color: yellowgreen;
 }
 
 
