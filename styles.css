@@ -2,6 +2,10 @@ body {
   margin: 8px
 }
 
+p {
+  width: 800px
+}
+
 #mainheading {
   color: red
 }
