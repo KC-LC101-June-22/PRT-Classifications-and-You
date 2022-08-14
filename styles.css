@@ -10,11 +10,6 @@ body {
   color:green
 }
 
-img {
-  width: 300px;
-  height: 300px
-}
-
 /* Below code is adapted from https://www.w3schools.com/css/css3_images.asp, image hover overlay */
 .container {
   position: relative;
@@ -56,6 +51,52 @@ img {
 }
 
 .brute {
-  color: green;
-  background-color:darkgreen;
+  background-color: green;
 }
+
+.striker {
+  background-color: yellow;
+}
+
+.blaster {
+  background-color: red;
+}
+
+.mover {
+  background-color: blue;
+}
+
+.changer {
+  background-color: lightgreen;
+}
+
+.breaker {
+  background-color: lightblue;
+}
+
+.shaker {
+  background-color: brown;
+}
+
+.trump {
+  background-color: grey;
+}
+
+.stranger {
+  background-color: purple;
+}
+
+.tinker {
+  background-color: darkyellow;
+}
+
+.master {
+  background-color: darkPurple;
+}
+
+.thinker {
+  background-color: darkblue;
+}
+
+
+
